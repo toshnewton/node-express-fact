@@ -14,7 +14,7 @@ module.exports = [
   { "id": 104},
   { "id": 105, "fact": "PWA stands for Progressive Web App.", "by": "https://github.com/Logan11999"},
   { "id": 106},
-  { "id": 107},
+  { "id": 107, "fact": "A Web server is a computer system that processes requests via HTTP to distribute information on the WWW.", "by": "https://github.com/AshleyStanbridge96"},
   { "id": 108},
   { "id": 109},
   { "id": 110},
