@@ -9,7 +9,7 @@ module.exports = [
   { "id": 8, "fact": "Nodejs is single threaded.", "by":"https://github.com/rahulreddy062"},
   { "id": 9, "fact": "Web server can refer to hardware or software, or both of them working together.", "by": "https://github.com/karanamvijaykumar" },
   { "id": 101},
-  { "id": 102},
+  { "id": 102, "fact": " a world wide web is an information space.", "by": "https://github.com/Rethima-Reddy"},
   { "id": 103},
   { "id": 104},
   { "id": 105},
