@@ -1,4 +1,4 @@
-module.exports = [
+ b module.exports = [
   { "id": 1, "fact": "HTML is for content.", "by": "https://github.com/denisecase" },
   { "id": 2, "fact": "CSS is for style.", "by": "https://github.com/denisecase" },
   { "id": 3, "fact": "JavaScript is for logic.", "by": "https://github.com/denisecase" },
@@ -20,7 +20,7 @@ module.exports = [
   { "id": 109},
   { "id": 110, "fact": "The React framework is made by Facebook"},
   { "id": 111},
-  { "id": 112},
+  { "id": 112,"fact": "AJAX is a new technique for creating better, faster web applications with the help of XML, HTML, CSS, and Java Script. ","by":"https://github.com/saichandugampa"},
   { "id": 113},
   { "id": 114}, "fact": "HTML is hyper text markup language use to create web pages", "by": "https://github.com/AzharAlali"},
   { "id": 115},
