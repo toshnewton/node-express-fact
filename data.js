@@ -10,7 +10,7 @@
   { "id": 9, "fact": "Web server can refer to hardware or software, or both of them working together.", "by": "https://github.com/karanamvijaykumar" },
   { "id": 23, "fact": "Java and JavaScript are not the same language.", "by":"https://github.com/JosephCW" },
   { "id": 101},
-  { "id": 102},
+  { "id": 102, "fact": " a world wide web is an information space.", "by": "https://github.com/Rethima-Reddy"},
   { "id": 103},
   { "id": 104},
   { "id": 105, "fact": "PWA stands for Progressive Web App.", "by": "https://github.com/Logan11999"},
