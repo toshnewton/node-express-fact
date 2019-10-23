@@ -1,4 +1,4 @@
- b module.exports = [
+ module.exports = [
   { "id": 1, "fact": "HTML is for content.", "by": "https://github.com/denisecase" },
   { "id": 2, "fact": "CSS is for style.", "by": "https://github.com/denisecase" },
   { "id": 3, "fact": "JavaScript is for logic.", "by": "https://github.com/denisecase" },
