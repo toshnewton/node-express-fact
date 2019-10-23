@@ -24,7 +24,7 @@
   { "id": 113,"fact": "My github account.", "by": "https://github.com/jeevanreddymure"},
   { "id": 114}, "fact": "HTML is hyper text markup language use to create web pages", "by": "https://github.com/AzharAlali"},
   { "id": 115,"fact": "Flask is a microframework for Python","by":"https://github.com/AlekyaPochampally"},
-  { "id": 116},
+  { "id": 116, "fact": "WWW stands for World Wide Web", "by": "https://github.com/jyothsna5268"},
   { "id": 117, "fact": "Javascript is single threaded, but web workers and event listeners can be utilized to run javascript in a seperate background thread.", "by": "https://github.com/dakotagrvtt" },
   { "id": 118, "fact": "PWA stands for Progressive Web Appplication.", "by": "https://github.com/jfolkerts"},
   { "id": 119, "fact": "HTML stands for HyperText Markup Language", "by": "https://github.com/s534141"},
