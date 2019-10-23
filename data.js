@@ -18,7 +18,7 @@ module.exports = [
   { "id": 108},
   { "id": 109},
   { "id": 110},
-  { "id": 111},
+  { "id": 111,"fact": "JavaScript is a scripting language,primarily used on web", "by":"https://github.com/Dheeraj0327"},
   { "id": 112},
   { "id": 113},
   { "id": 114},
