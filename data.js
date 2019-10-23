@@ -17,7 +17,7 @@ module.exports = [
   { "id": 107},
   { "id": 108},
   { "id": 109},
-  { "id": 110},
+  { "id": 110, "fact": "JavaScript is supported by all modern Web browsers with the built-in interpreters.", "by": "https://github.com/praneeth323"},
   { "id": 111},
   { "id": 112},
   { "id": 113},
