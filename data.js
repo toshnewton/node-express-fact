@@ -15,7 +15,7 @@ module.exports = [
   { "id": 105, "fact": "PWA stands for Progressive Web App.", "by": "https://github.com/Logan11999"},
   { "id": 106},
   { "id": 107},
-  { "id": 108},
+  { "id": 108, "fact": "Progressive Web Apps fit any screen size and can be used without a network connection.", "by": "https://github.com/kdibben" },
   { "id": 109},
   { "id": 110},
   { "id": 111},
