@@ -22,7 +22,7 @@
   { "id": 111,"fact": "JavaScript is a scripting language,primarily used on web", "by": "https://github.com/Dheeraj0327"},
   { "id": 112,"fact": "AJAX is a new technique for creating better, faster web applications with the help of XML, HTML, CSS, and Java Script. ","by":"https://github.com/saichandugampa"},
   { "id": 113,"fact": "My github account.", "by": "https://github.com/jeevanreddymure"},
-  { "id": 114}, "fact": "HTML is hyper text markup language use to create web pages", "by": "https://github.com/AzharAlali"},
+  { "id": 114, "fact": "HTML is hyper text markup language use to create web pages", "by": "https://github.com/AzharAlali"},
   { "id": 115,"fact": "Flask is a microframework for Python","by":"https://github.com/AlekyaPochampally"},
   { "id": 116, "fact": "WWW stands for World Wide Web", "by": "https://github.com/jyothsna5268"},
   { "id": 117, "fact": "Javascript is single threaded, but web workers and event listeners can be utilized to run javascript in a seperate background thread.", "by": "https://github.com/dakotagrvtt" },
