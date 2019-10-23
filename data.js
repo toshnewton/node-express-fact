@@ -11,7 +11,7 @@
   { "id": 23, "fact": "Java and JavaScript are not the same language.", "by":"https://github.com/JosephCW" },
   { "id": 101, "fact": "Webapps are suboptimal, and unless something drastically changes, will remain so.", "by": "https://github.com/Mahender1166" },
   { "id": 102, "fact": " a world wide web is an information space.", "by": "https://github.com/Rethima-Reddy"},
-  { "id": 103},
+  { "id": 103, "fact": "Angular and Reactjs are used to develop single page applications(SPA)", "by": "https://github.com/thumula-akhitha" },
   { "id": 104,"fact": "Express is a framework for Node.js","by":"https://github.com/rohan6471"},
   { "id": 105, "fact": "PWA stands for Progressive Web App.", "by": "https://github.com/Logan11999"},
   { "id": 106, "fact": "Screen size affects the look of a website.", "by": "https://github.com/tjac1336"},
