@@ -25,7 +25,7 @@ module.exports = [
   { "id": 115},
   { "id": 116},
   { "id": 117},
-  { "id": 118},
+  { "id": 118, "fact": "PWA stands for Progressive Web Appplication.", "by": "https://github.com/jfolkerts"},
   { "id": 119},
   { "id": 120},
   { "id": 121},
